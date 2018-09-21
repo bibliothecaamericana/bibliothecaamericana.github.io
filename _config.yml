@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/americana_header.jpg"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -76,7 +76,7 @@ social-network-links:
   #email: "someone@example.com"
   #facebook: daattali
   github: lvantine
-  twitter: lvantine
+  twitter: mlvantine
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
