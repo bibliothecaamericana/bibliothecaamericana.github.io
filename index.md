@@ -1,0 +1,17 @@
+---
+layout: page
+title: Digital Bibliotheca Americana
+subtitle: A computational approach to the history of collecting
+use-site-title: true
+bigimg: "/img/americana_header.jpg"
+---
+
+The Digital Bibliotheca Americana project uses computational analysis to track the nineteenth-century circulation and relocation of materials that would come to be known as “Americana.” It thus extends the methodological reach of my first book project, The Invention of Americana: New World Inscription and the Archive of Empire, which explores how the United States claimed and consolidated the archive of European empire in the Americas and used it as a source base to claim New World histories and territories.
+
+The project has several components. The first explores provenance and material circulation by compiling and analyzing datasets drawn from bibliographic metadata in MARC library records. The second develops methods for converting OCR-generated text of Joseph Sabin’s 29-volume Bibliotheca Americana (1868-1936) into semi-structured data. The third identifies bibliographic citations in MARC records in order to link institutional, copy-specific information to the overarching Sabin framework. As a digital fellow at the John Carter Brown Library in Summer 2018, I completed the initial phases of this work in the form of a discrete project focused on JCB metadata. While it represents a freestanding project in its own right, my institution-level work also lays the groundwork for larger-scale work that links up metadata from multiple institutions.
+
+The DBA project is grounded in the insight that special collections data at scale already exists in the form of bibliographic MARC records. The MARC data format was created in the 1960s as a way to automate the creation of library catalogue cards, and its many idiosyncrasies are artifacts of a pre-computing era. Despite its limitations, however, MARC remains the standard for most institutions. Therefore, it is interoperable: because it is so widely used, the fields and controlled terms are consistent enough that it is possible to compare records across collections and institutions. MARC is also quite capacious, and in addition to containing controlled, machine-readable information about things like date, language, and publication location, it also allows for unstructured notes fields with rich information about provenance, ownership marks, accession numbers, and the like. In addition to being a resource for finding items in a given repository, then, it can also be seen as an enormous, high-quality dataset for research on the history of collections and book history.
+
+Until just a few years ago, however, it was not available for research, because it was only available via each institution’s OPAC, or online public access catalog interface. But in recent years there has been a shift towards open library metadata, and institutions like Harvard, the Library of Congress, the British Library, and others have released their MARC records en masse for researchers to use. With some remediation of this existing data, and an attention to fields that are usually suppressed in front-end interfaces, large-scale analysis of special collections data is therefore already possible. Seeing this vast, interoperable metadata corpus as data simply requires a conceptual shift in how we approach these records, one that is able to bridge the ways librarians think about catalog records and the way researchers think about objects of study
+
+-----
